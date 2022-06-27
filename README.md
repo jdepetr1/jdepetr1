@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jdepetr1
+- 👀 I’m interested in coding a little, and coding a lot!
+- 🌱 I’m currently refreshing my Python, and C codings skills
+- 💞️ I’m looking for a job as a Software Engineer
+- 📫 How to reach me: johndepetro00@gmail.com
